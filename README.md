@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arfatprogram](https://github.com/arfatprogram)
+- 👨‍💻 All of my projects are available at [Github](github.com/arfatprogram)
 
 - 💬 Ask me about **react**
 
