@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfatprogramer" alt="arfatprogramer" /></a> </p>
 
-- 🌱 I’m currently learning **nextJs**
+- 🌱 I’m currently learning **Laravelframework**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/arfatprogram)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **arfata701@gmail.com**
+- 📫 How to reach me **ArfatAnsari.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mo-arfat-ansari-631776244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
