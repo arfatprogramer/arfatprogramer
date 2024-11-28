@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfatprogramer" alt="arfatprogramer" /></a> </p>
 
-- 🌱 I’m currently learning **Laravelframework**
+- 🌱 I’m currently learning **Laravel framework**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/arfatprogram)
 
